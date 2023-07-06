@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Directories permissions"
+git commit -m "Create a dir with mode"
 git push
