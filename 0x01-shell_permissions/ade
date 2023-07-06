@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "James bond"
+git commit -m "John doe"
 git push
