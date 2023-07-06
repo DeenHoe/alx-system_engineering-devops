@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Look in the mirror"
+git commit -m "Directories permissions"
 git push
