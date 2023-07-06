@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Change owner and group"
+git commit -m "Symbolic links"
 git push
